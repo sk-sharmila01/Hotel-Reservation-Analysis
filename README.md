@@ -85,11 +85,13 @@ Through this project, I strengthened my understanding of:
 
 ## 👩‍💻 **Author**
 
-**Muskan**
+## 👩‍💻 **Author**
+
+**Sharmila**
 
 Aspiring Data Scientist | Data Analytics | Power BI | Machine Learning
 
-🔗 GitHub: [syedmuskan122](https://github.com/syedmuskan122)
+🔗 **GitHub:** [sk-sharmila01](https://github.com/sk-sharmila01)
 
 ---
 
