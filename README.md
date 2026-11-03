@@ -85,8 +85,6 @@ Through this project, I strengthened my understanding of:
 
 ## 👩‍💻 **Author**
 
-## 👩‍💻 **Author**
-
 **Sharmila**
 
 Aspiring Data Scientist | Data Analytics | Power BI | Machine Learning
